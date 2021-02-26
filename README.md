@@ -1,0 +1,1 @@
+# zabbix-Emerson-NXR-UPS-Template
